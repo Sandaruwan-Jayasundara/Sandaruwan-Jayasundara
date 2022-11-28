@@ -10,7 +10,7 @@
 
 
 ### <div align="center">I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specializing in Software Engineering).
-A fast learner, hard worker and has ability to adopt to frequent changes in the field of computing. Eagerly waiting to be challenged in order to enhance and improve my skills in the field of computer software engineering</div>  
+I am a full-stack developer and interesting in frontend, backend and system management developments. A fast learner, hard worker and has ability to adopt to frequent changes in the field of computing. Eagerly waiting to be challenged in order to enhance and improve my skills in the field of computer software engineering</div>  
   
   
 
