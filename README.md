@@ -8,10 +8,10 @@
 
 <br/>  
 
-
-### <div align="center">I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specializing in Software Engineering).
-I am a full-stack developer and interesting in frontend, backend and system management developments. A fast learner, hard worker and has ability to adopt to frequent changes in the field of computing. Eagerly waiting to be challenged in order to enhance and improve my skills in the field of computer software engineering</div>  
-  
+###  <div align="center">Hey there! 👋 I'm a Senior Software Engineer from Sri Lanka 🌴</div>
+<div align="center">With a BSc (Hons) in IT specializing in Software Engineering from SLIIT, I’m on a mission to craft digital experiences that blend creativity with functionality.</div>
+<div align="center">I thrive in both frontend and backend realms, enjoy exploring system management, and constantly push the boundaries of what's possible with code. A lifelong learner, I’m always ready to adapt to the fast-paced world of tech and embrace challenges that drive growth.</div>
+<div align="center">Let’s innovate, build, and create something extraordinary together!</div>
   
 
 <br/>  
