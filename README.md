@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://github.com/Sandaruwan-Jayasundara/Sandaruwan-Jayasundara/blob/main/cover.gif?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Sandaruwan-Jayasundara/Sandaruwan-Jayasundara/blob/main/cover.gif?raw=true" align="center" style="width:100%" />
 </div>  
     
-
 <br/>  
   
-
 <br/>  
 
 ###  <div align="center">Hey there! 👋 I'm a Software Engineer from Sri Lanka 🌴</div>
