@@ -15,7 +15,9 @@
 <br/>  
 <br/>  
 
-echo "- [Bug Bash Game](./bug-bash-game/)" >> README.md
+<p align="center">
+  <img src="./bug-bash-game/bug-animation.gif" alt="Bug Animation" width="300" />
+</p>
 
 **[![@sandaruwan's Holopin board](https://holopin.me/sandaruwan)](https://holopin.io/@sandaruwan)**  
   
