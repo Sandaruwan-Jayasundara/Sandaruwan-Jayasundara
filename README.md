@@ -15,7 +15,7 @@
 <br/>  
 <br/>  
 
-echo "bug-bash-game/">>
+echo "- [Bug Bash Game](./bug-bash-game/)" >> README.md
 
 **[![@sandaruwan's Holopin board](https://holopin.me/sandaruwan)](https://holopin.io/@sandaruwan)**  
   
